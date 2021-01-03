@@ -17,17 +17,14 @@ Other working App screenshots are given below :
 <h2>Homepage :</h2>
 <img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Homepage.png">
 
-<h2>SignUp form</h2>
-<img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Signup.png">
-
 <h2>LogIn form</h2>
-<img src = "">
+<img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Login.png">
 
 <h2>Donor Dashboard</h2>
-<img src = "">
+<img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Food%20Donor%201.png">
 
 <h2>Donor Dashboard Update form</h2>
-<img src = "">
+<img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Farmer%20Dashboard%20Update.png">
 
 <h2>Needy Dashboard</h2>
-<img src = "">
+<img src = "https://github.com/SHUKLA123/Foodapp/blob/main/img/Food%20Needy%201.png">
